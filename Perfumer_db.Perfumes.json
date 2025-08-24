@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b64"
+  },
+  "nombre": "Noir Intense",
+  "marca": "Aurum",
+  "precio": 92.5,
+  "stock": 35,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b65"
+  },
+  "nombre": "Brisa Marina",
+  "marca": "Maré",
+  "precio": 65,
+  "stock": 63,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b66"
+  },
+  "nombre": "Dulce Vainilla",
+  "marca": "Lumina",
+  "precio": 84.9,
+  "stock": 30,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b67"
+  },
+  "nombre": "Cítrico Vivo",
+  "marca": "Aurum",
+  "precio": 58.5,
+  "stock": 53,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b68"
+  },
+  "nombre": "Frescor Verde",
+  "marca": "Herbal Essence",
+  "precio": 49.9,
+  "stock": 73,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b69"
+  },
+  "nombre": "Noche Estelar",
+  "marca": "Galaxy",
+  "precio": 110,
+  "stock": 25,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b6a"
+  },
+  "nombre": "Rosa Encantada",
+  "marca": "Floralis",
+  "precio": 82,
+  "stock": 40,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b6b"
+  },
+  "nombre": "Aroma Café",
+  "marca": "Gourmet",
+  "precio": 70,
+  "stock": 32,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab653d072f0d7160a31b6c"
+  },
+  "nombre": "Océano Azul",
+  "marca": "Maré",
+  "precio": 68,
+  "stock": 41,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab73a4072f0d7160a31b71"
+  },
+  "nombre": "Bosque Ámbar",
+  "marca": "SelvaLux",
+  "precio": 61.5,
+  "stock": 15,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab73a4072f0d7160a31b73"
+  },
+  "nombre": "Nube Suave",
+  "marca": "Floralis",
+  "precio": 54.9,
+  "stock": 38,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab73a4072f0d7160a31b75"
+  },
+  "nombre": "Bruma de Río",
+  "marca": "Maré",
+  "precio": 66,
+  "stock": 11,
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68ab73a4072f0d7160a31b76"
+  },
+  "nombre": "Galaxia Azul",
+  "marca": "Galaxy",
+  "precio": 112,
+  "stock": 6,
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68ab73a4072f0d7160a31b77"
+  },
+  "nombre": "Hoja Fresca",
+  "marca": "Herbal Essence",
+  "precio": 47.5,
+  "stock": 47,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68ab73a4072f0d7160a31b79"
+  },
+  "nombre": "Cítrico Solar",
+  "marca": "Aurum",
+  "precio": 59,
+  "stock": 11,
+  "activo": false
+}]
